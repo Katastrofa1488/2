@@ -1,0 +1,160 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+header, section{
+
+    text-align: center;
+    
+    margin: 0 auto;
+}
+header{
+    background-color: white;
+    padding: 50px 0;
+}
+.logo{
+    display: inline-block;
+    width: 100px;
+
+}
+.social-links{
+    display: inline-block;
+    width: 480px;
+    text-align: right;
+
+}
+.facebook01{
+    display: inline-block;
+    margin-right: 20px;
+}
+.content-wrapper{
+    background: #FAC960;
+    color: rgba(0, 0, 0, 0.56);
+
+    text-align: center;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 36px;
+    padding-top: 102px;
+    padding-bottom: 140px;
+}
+section h1{
+    color: #8A6D2F;
+    text-align: center;
+font-size: 44px;
+font-style: normal;
+font-weight: 400;
+line-height: 54px;
+
+}
+h2{
+ color: #8A6D2F;
+text-align: center;
+font-size: 43px;
+font-style: normal;
+font-weight: 400;
+line-height: 54px
+}
+
+.buttonbut{
+    border: none;
+    display: inline-block;
+    padding: 6px 15px;
+    border-radius: 2px 0px 0px 2px;
+}
+
+button{
+    border-radius: 0px 2px 2px 0px;
+    background: #A8863D;
+    color: white;
+    border: none;
+    padding: 6px 10px;
+}
+.second{
+    background-color: #F2F2F2;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 311px;
+    padding-right: 310px;
+}
+.paragraph01{
+    color: rgba(0, 0, 0, 0.56);
+text-align: center;
+font-size: 37px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+}
+.paper02{
+    color: rgba(0, 0, 0, 0.40);
+text-align: center;
+font-size: 23px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+width: 400px;
+margin: 40px auto;
+}
+.third03{
+
+    padding: 0px 50px 0px 50px;
+    text-align: center;
+}
+.cutters01{
+    width: 940px;
+    padding: 0px 50px 0px 50px;
+    margin: 16px auto;
+}
+.paragraph02{
+    color: rgba(0, 0, 0, 0.56);
+text-align: center;
+font-size: 37px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+}
+.forth04{
+    background-color: #FAC960;
+   
+}
+.fish{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.eye02{
+    color: rgba(0, 0, 0, 0.40);
+text-align: center;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding-bottom: 100px;
+}
+footer{
+    text-align: center;
+}
+.tail01{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.tail-social-media{
+    padding-top: 30px;
+    display: inline-block;
+
+}
+.twitter02{
+    display: inline-block;
+    margin-right: 20px;
+}
+ .facebook02{
+    display: inline-block;
+    margin-left: 20px;
+ }
