@@ -115,7 +115,7 @@ header{
     border-radius: 10px;
     background-color: #D40D1F;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     width: 250px;
     height: 50px;
